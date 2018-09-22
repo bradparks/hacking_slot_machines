@@ -12,7 +12,7 @@ Here's the pipeline:
 - Run OCR text through a hand-designed brute-force search to get the most likely answer
 - Pass answer through text-to-speech engine and into hidden earpiece
 
-**Disclaimer: game legitimately aquired and not included for obvious reasons. These machines aren't in circulation, you have to find them online and buy them. This is just a fun home project!**
+**Disclaimer: game legitimately aquired and not included for obvious reasons. This doesn't physically work unless you have authorized access to the machine. These machines aren't actually in circulation, you have to find them online and buy them. This is just a fun home project!**
 
 
 ### The game
